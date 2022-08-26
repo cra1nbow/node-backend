@@ -16,7 +16,7 @@
     "express-async-handler": "^1.1.4",
     "express-bearer-token": "^2.4.0",
     "mongodb": "^4.0.1",
-    "mongoose": "^6.0.5",
+    "mongoose": "^6.4.6",
     "morgan": "^1.10.0",
     "reflect-metadata": "^0.1.13",
     "ts-mongoose": "^0.0.24",
